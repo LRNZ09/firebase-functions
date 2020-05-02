@@ -20,5 +20,6 @@
 		"logs": "firebase functions:log",
 		"serve": "tsc && firebase emulators:start --only functions",
 		"shell": "tsc && firebase functions:shell"
-	}
+	},
+	"version": "0.0.1"
 }
